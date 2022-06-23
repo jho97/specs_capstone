@@ -1,0 +1,17 @@
+"SAGDP1 Gross Domestic Product (GDP) summary, annual by state"
+"" 
+"Bureau of Economic Analysis" 
+"State or DC"
+"GeoFips","GeoName","LineCode","Description","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021"
+"53000","Washington","1","Real GDP (millions of chained 2012 dollars)",271270.7,288206.9,308949.5,311209.9,303673.8,307583.2,312556.4,319848.9,340428.0,353263.5,373180.6,381289.9,370136.6,380989.5,387745.2,400530.6,410873.9,424467.6,441952.1,458263.8,482824.1,515629.9,535980.5,532861.9,568302.8
+"53000","Washington","2","Chain-type quantity indexes for real GDP",67.728,71.956,77.135,77.699,75.818,76.794,78.036,79.856,84.994,88.199,93.172,95.196,92.412,95.121,96.808,100.000,102.582,105.976,110.342,114.414,120.546,128.737,133.818,133.039,141.887
+"53000","Washington","3","Current-dollar GDP (millions of current dollars)",193825.9,209741.1,229797.9,237378.2,238418.6,245978.5,255370.2,268378.3,293676.0,314265.2,342024.2,354794.1,351245.0,365497.8,379574.9,400530.6,419092.4,440648.0,466689.7,487275.1,519942.9,564480.7,597873.8,604253.8,667576.8
+"53000","Washington","4","Compensation (millions of dollars)",104320.1,115293.1,125679.1,133456.7,134764.4,136103.4,140477.1,147795.2,156207.3,167498.7,180867.8,188007.5,183382.0,187194.6,194176.3,205219.9,214523.2,227269.9,238566.5,252798.2,271223.9,294811.2,313859.2,326111.4,"(NA)"
+"53000","Washington","5","Gross operating surplus (millions of dollars)",72446.4,76716.3,85342.4,84431.5,83915.8,89565.8,93420.9,97280.7,111906.6,119397.6,132814.4,138466.7,141829.7,150811.7,156428.3,164742.0,172425.6,179315.4,192208.4,196197.2,207658.7,225366.3,235792.3,248091.9,"(NA)"
+"53000","Washington","6","Taxes on production and imports (TOPI) less subsides (millions of dollars)",17059.4,17731.7,18776.4,19490.0,19738.4,20309.4,21472.1,23302.4,25562.1,27369.0,28342.0,28319.8,26033.3,27491.5,28970.3,30568.6,32143.6,34062.6,35914.9,38279.7,41060.3,44303.2,48222.2,30050.6,"(NA)"
+"53000","Washington","7","  Taxes on production and imports (TOPI) (millions of dollars)",17829.4,18556.8,19649.2,20423.9,20760.9,21225.4,22531.1,24320.6,26715.3,28397.4,29373.2,29420.0,27376.4,28858.3,30382.8,31904.1,33484.5,35349.3,37267.2,39790.8,42599.8,45895.2,49883.9,49112.1,"(NA)"
+"53000","Washington","8","  Subsidies (millions of dollars)",-770.0,-825.1,-872.8,-933.9,-1022.4,-916.0,-1059.0,-1018.1,-1153.3,-1028.5,-1031.2,-1100.2,-1343.1,-1366.8,-1412.5,-1335.4,-1340.9,-1286.6,-1352.3,-1511.1,-1539.5,-1592.0,-1661.7,-19061.5,"(NA)"
+"Legend / Footnotes:"
+"Real GDP is in millions of chained 2012 dollars. Calculations are performed on unrounded data. Chained (2012) dollar series are calculated as the product of the chain-type quantity index and the 2012 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. The difference between the United States and sum-of-states reflects federal military and civilian activity located overseas, as well as the differences in source data used to estimate GDP by industry and the expenditures measure of real GDP."
+"(NA) Not available."
+"Last updated: March 31, 2022-- preliminary statistics for 2021."
