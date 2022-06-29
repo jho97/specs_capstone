@@ -1,0 +1,2 @@
+I used the Federal Reserve Economic Data (FRED) https://fred.stlouisfed.org
+ for state median household income, tax income, Gross Domestic Property (GDP), state employment. I also used FRED to receive the national data for all the categories that I looked into for state information. I believed my sources to be reliable because the information is taken from https://data.census.gov/ that has held trusted data from census surveys. 
